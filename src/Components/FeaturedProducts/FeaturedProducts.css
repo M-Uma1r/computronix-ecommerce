@@ -1,0 +1,42 @@
+.Featured-container{
+    border: 1px solid black;
+    margin-top: 20px;
+    height: 450px;
+    box-shadow: 2px 2px grey;
+    border-radius: 20px;
+}
+.Product-Heading{
+    font-size:xx-large;
+    font-weight: bold;
+    text-align: center;
+}
+.card1{
+    border: 1px solid black;
+    height: 370px;
+    width: 300px;
+    margin-left: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px grey;
+    padding: 10px;
+    text-wrap: wrap;
+}
+.card1 img{
+    height: 250px;
+    width: 250px;
+    margin-left: 10px ;
+}
+.description{
+    margin-left: 10px;
+    font-weight: 500;
+}
+.Price{
+    margin-top: -15px;
+    margin-left: 10px;
+    font-weight: 500;
+    color: rgb(0, 179, 255);
+}
+.card1:hover{
+    box-shadow: 4px 4px grey;
+    height: 371px;
+    width: 301px;
+}

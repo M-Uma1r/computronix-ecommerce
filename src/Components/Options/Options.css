@@ -1,0 +1,20 @@
+.Options-container{
+    border: 1px solid black;
+    height: 70px;
+    width: 1000px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 50px;
+    box-shadow: 2px 2px rgb(128, 128, 128);
+}
+.fa-desktop , .fa-laptop,.fa-mobile,.bi-smartwatch,.fa-headphones,.fa-keyboard,.fa-computer-mouse{
+    margin-left: 97px;
+    margin-top: 32px;
+}
+.bi-smartwatch{
+    position: relative;
+    top: 6px;
+}
+.fa-desktop:hover ,.fa-laptop:hover ,.fa-mobile:hover,.bi-smartwatch:hover,.fa-headphones:hover,.fa-keyboard:hover,.fa-computer-mouse:hover{
+    color: rgb(0, 179, 255);
+}

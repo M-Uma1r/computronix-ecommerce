@@ -1,0 +1,28 @@
+.container{
+    background-color: white;
+    height: 30px;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+}
+.container p{
+    font-size: larger;
+    margin-left: 40px;
+    font-weight: bold;
+    color: rgb(0, 179, 255);
+}
+.container button{
+    margin-left: 1100px;
+    border: none;
+    background-color: white;
+    color: rgb(0, 179, 255);
+    width: 100px;
+    margin-top: -42px;
+    font-weight: bold;
+}
+.container button:hover{
+    border: 1px solid rgb(0, 179, 255);
+    width: 100px;
+    border-radius: 100px;
+}

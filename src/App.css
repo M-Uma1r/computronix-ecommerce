@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.AppContainer{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.flex-items{
+    width: 100vw;
+}
+.NavBar{
+    width: 100vw;
+}
