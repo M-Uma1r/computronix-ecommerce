@@ -2,6 +2,9 @@ import React from 'react';
 import "./LandingPage.css"
 import Options from '../Options/Options';
 import FeaturedProducts from '../FeaturedProducts/FeaturedProducts';
+import DesktopSection from '../Desktopsection/DesktopSection';
+import Laptops from '../LaptopSection/Laptops';
+import SmartPhones from '../SmartPhones/SmartPhones';
 
 export default function LandingPage() {
   return (
@@ -30,10 +33,10 @@ export default function LandingPage() {
           </button>
         </div>
         <div className="carousel-inner">
-          <div className="carousel-item active">
+          <div className="carousel-item ">
             <img src="https://www.czone.com.pk/images/banners/261.jpg" className="d-block w-100" alt="First slide" />
           </div>
-          <div className="carousel-item">
+          <div className="carousel-item active">
             <img src="https://www.czone.com.pk/images/banners/274.jpg" className="d-block w-100" alt="Second slide" />
           </div>
           <div className="carousel-item">
@@ -59,6 +62,9 @@ export default function LandingPage() {
       </div>
       <Options/>
       <FeaturedProducts/>
+      <DesktopSection/>
+      <Laptops/>
+      <SmartPhones/>
     </div>
   );
 }

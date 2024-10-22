@@ -5,7 +5,8 @@ export default function Navbar() {
   return (
     <div className='container'>
         <p>Computronix</p>
-        <button>Log In</button>
+        <button className='Login-btn'>Log In</button>
+        <button className='Signup-btn'>Sign Up</button>
     </div>
   )
 }
