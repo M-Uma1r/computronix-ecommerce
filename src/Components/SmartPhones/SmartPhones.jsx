@@ -45,12 +45,12 @@ export default function SmartPhones() {
           <img
             style={{ height: "200px" }}
             src="https://m.media-amazon.com/images/I/719QmmyMLYL._SX679_.jpg"
-            alt="Alienware Aurora R16 Gaming Desktop"
+            alt="OnePlus Open"
           />
           <p className="description" style={{ marginTop: "70px" }}>
-            Alienware Aurora R16 Gaming Desktop
+            OnePlus Open
           </p>
-          <p className="Price mt-4">$1,407.45</p>
+          <p className="Price mt-4">$1,119.35</p>
         </div>
       </div>
     </div>

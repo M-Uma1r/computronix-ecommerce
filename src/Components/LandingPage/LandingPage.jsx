@@ -5,6 +5,10 @@ import FeaturedProducts from '../FeaturedProducts/FeaturedProducts';
 import DesktopSection from '../Desktopsection/DesktopSection';
 import Laptops from '../LaptopSection/Laptops';
 import SmartPhones from '../SmartPhones/SmartPhones';
+import SmartWatch from '../Smartwatch/SmartWatch';
+import Headphones from '../Headphones/Headphones';
+import Keyboards from '../Keyboards/Keyboards';
+import Mouse from '../Mouse/Mouse';
 
 export default function LandingPage() {
   return (
@@ -65,6 +69,10 @@ export default function LandingPage() {
       <DesktopSection/>
       <Laptops/>
       <SmartPhones/>
+      <SmartWatch/>
+      <Headphones/>
+      <Keyboards/>
+      <Mouse/>
     </div>
   );
 }

@@ -1,0 +1,7 @@
+.Keyboards-container{
+    border: 1px solid black;
+    margin-top: 40px;
+    height: 500px;
+    box-shadow: 2px 2px grey;
+    border-radius: 20px;
+}
