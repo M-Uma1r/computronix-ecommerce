@@ -1,0 +1,17 @@
+.Desktopcard1-container{
+    display: inline-flex;
+    flex-direction: column;
+}
+.add-to-cart{
+    width: 120px;
+    background-color: white;
+    color: rgb(0, 179, 255) ;
+    border: 2px solid rgb(0, 179, 255);
+    border-radius: 24px;
+    height: 32px;
+
+}
+.add-to-cart:hover{
+    background-color: rgb(0, 179, 255);
+    color: white;
+}

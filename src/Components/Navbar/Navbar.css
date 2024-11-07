@@ -42,3 +42,11 @@
     background-color: white;
     color: rgb(0, 179, 255);
 }
+.fa-cart-shopping{
+    margin-left: 1350px;
+    margin-top: -10px;
+    color: rgb(0, 179, 255);
+}
+.fa-cart-shopping:hover{
+    color: black;
+}
