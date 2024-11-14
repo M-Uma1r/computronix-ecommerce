@@ -44,10 +44,10 @@ export default function Laptops() {
         <div className="card3" style={{ order: 4 }}>
           <img style={{height:"200px"}}
             src="https://p4-ofp.static.pub/ShareResource/na/products/thinkpad/560x450/lenovo-thinkpad-x1-carbon-g12-01.png"
-            alt="Alienware Aurora R16 Gaming Desktop"
+            alt="ThinkPad X1 Carbon Gen 12 (14ʺ Intel) Laptop"
           />
-          <p className="description" style={{marginTop:"70px"}}>Alienware Aurora R16 Gaming Desktop</p>
-          <p className="Price mt-4">$1,407.45</p>
+          <p className="description" style={{marginTop:"70px"}}>ThinkPad X1 Carbon Gen 12 (14ʺ Intel) Laptop</p>
+          <p className="Price mt-4">$1,361.88</p>
         </div>
       </div>
     </div>

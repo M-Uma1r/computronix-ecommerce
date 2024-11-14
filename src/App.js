@@ -6,6 +6,7 @@ import Desktopcard1 from './Components/Desktopsection/Desktopcard1'
 import Desktopcard2 from './Components/Desktopsection/Desktopcard2'
 import Desktopcard3 from './Components/Desktopsection/Desktopcard3'
 import Payment from './Components/Payment/Payment'
+import ProductDetails from './Components/ProductDetails/ProductDetails'
 
 export default function App() {
   return (
@@ -16,7 +17,8 @@ export default function App() {
         {/* <Desktopcard1/> */}
         {/* <Desktopcard2/> */}
         {/* <Desktopcard3/> */}
-        <Payment/>
+        {/* <Payment/> */}
+        <ProductDetails/>
       </div>
     </div>
   )
